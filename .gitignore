@@ -1,3 +1,7 @@
-__pychache__
-fastapi-env
-.DS_Store
+venv/
+fastapi-env/
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.db
